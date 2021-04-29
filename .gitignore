@@ -1,0 +1,6 @@
+/venv
+*.pt
+*-checkpoint.ipynb
+./pytorch/bertviz_repo/
+*train.csv
+*test.csv
